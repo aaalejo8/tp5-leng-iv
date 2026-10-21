@@ -2,6 +2,7 @@
   "name": "tp4-react",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://aaalejo8.github.io/tp5-leng-iv",
   "dependencies": {
     "@testing-library/dom": "^10.4.2",
     "@testing-library/jest-dom": "^6.9.1",
